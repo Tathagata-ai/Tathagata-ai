@@ -32,7 +32,7 @@ With 15+ years of experience, I specialize in delivering industry-aligned traini
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/tathagata2009  
 - GitHub: https://github.com/Tathagata-ai  
-
+- Portfolio: https://tathagata-portfolio.vercel.app
 ---
 
 ⭐ Passionate about simplifying complex technology and empowering learners with real-world skills.
